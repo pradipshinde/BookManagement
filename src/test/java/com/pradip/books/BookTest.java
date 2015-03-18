@@ -9,7 +9,7 @@ import static org.hamcrest.Matchers.*;
  */
 public class BookTest extends CommonTest {
 
-    //assertThat(actual,expected)
+    //assertThat(expected,actual)
 
     @Test
     public void idShouldHaveSetterAndGetter() {
